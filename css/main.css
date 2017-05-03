@@ -129,6 +129,7 @@ nav li {
 	height: 200px;
 	display: inline-block;
 	margin-bottom: 20px;
+	margin-left: 50px;
 	background-color: white;
 	width: 19%;
 	border-radius: 15px;
@@ -161,7 +162,7 @@ nav li {
 }
 
 .gallery h1 {
-	font-style: cursive;
+	margin-left: 50%;
 }
 
 
